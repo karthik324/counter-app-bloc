@@ -1,6 +1,6 @@
 # counter_app_bloc
 
-A new Flutter project.
+Learning BLoC state management 
 
 ## Getting Started
 
